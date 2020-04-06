@@ -22,3 +22,6 @@ build:
   verbosity: minimal
 test: off
 deploy: off
+artifacts:
+  - path: Release
+  - path: Debug
